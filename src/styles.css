@@ -1,0 +1,9 @@
+/* Add application styles & imports to this file! */
+
+.has-error .form-control {
+    border-color: #ed5565;
+  }
+
+  .has-error .control-label {
+    color: #ed5565;
+  }
